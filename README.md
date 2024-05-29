@@ -46,7 +46,7 @@
   - [ODF](https://osf.io/)
 
 ------
-Current Coding Skillset:
+Current Coding Skillset & Tools:
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="Matlab logo" width="60" length="60" /> <a href="https://www.anaconda.com/download" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda logo" width="60" height="60" /></a> <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter logo" width="60" length="60" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python logo" width="60" length="60" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio logo" width="60" length="60" />
