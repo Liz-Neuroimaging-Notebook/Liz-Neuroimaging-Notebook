@@ -2,7 +2,7 @@
 <h1>Hello.</h1>
 
 
- <h4>Welcome to my GitHub Notebook. I created this page to display the current neuroimage processing tools and langauges I am familiar with. These classes are part of my Masters program. For Neuroimaging Data Processing Methods & Computational Modeling in Neuroimaging, I include the scripts I created for processing neuroimaging data, along with the results I obtained (links below). I also aim to include notes that can be useful for running future protocols & experiments. The Spring semester is still in progress. </h4>
+ <h4>Welcome to my GitHub Notebook.</h4>
  
 <body>
     <h2>Fall:</h2>
